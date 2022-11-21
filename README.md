@@ -5,13 +5,13 @@
   
 </div>
 
-- 💻Web Developement Student at [Trybe](https://www.betrybe.com) 
+- 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
 
-- 🌱 I’m currently learning JavaScript and React!
+- 😅 I’m currently learning JavaScript and React!
 
 - :handshake: I'm looking to collaborate with React and JS projects
 
-- 🌎 I'm Brazilian!
+- 🇧🇷 I'm Brazilian!
 
 - 💬 Ask me about **JavaScript, React, books and movies**
 
@@ -68,7 +68,7 @@
 
 ## 
 
-## Here on github you will find my contributions and projects, and you will be able to follow my evolution!
+## Here on github you will find my contributions and projects, and you will be able to follow my evolution! 😄
 
 ## GitHub Stats:
 
