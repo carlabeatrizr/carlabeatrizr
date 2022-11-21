@@ -1,8 +1,8 @@
 <div id="top" align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!
 **Hello, my name is Carla, and this is my GitHub Profile** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==========================================================================================================================================
+  
 </div>
 
 - 💻Web Developement Student at [Trybe](https://www.betrybe.com) 
