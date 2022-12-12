@@ -13,7 +13,7 @@
 
 - 🇧🇷 I'm Brazilian!
 
-- 💬 Ask me about **JavaScript, React, books and movies**
+- 💬 Ask me about **JavaScript, React, Muay Thai, books and movies**
 
 - 🎯 I'm studying to become a Full Stack Developer!
 
